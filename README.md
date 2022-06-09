@@ -1,7 +1,6 @@
 # SteganoGo
-[![Build](https://github.com/Mihai22125/SteganoGo/actions/workflows/Build.yml/badge.svg)](https://github.com/Mihai22125/SteganoGo/actions/workflows/Build.yml)
-[![Tests](https://github.com/Mihai22125/SteganoGo/actions/workflows/tests.yml/badge.svg)](https://github.com/Mihai22125/SteganoGo/actions/workflows/tests.yml)
-[![codecov](https://codecov.io/gh/Mihai22125/SteganoGo/branch/main/graph/badge.svg?token=H88Y439WF7)](https://codecov.io/gh/Mihai22125/SteganoGo)
+[![Build](https://github.com/volodymyrbalbuza/SteganoGo/actions/workflows/Build.yml/badge.svg)](https://github.com/volodymyrbalbuza/SteganoGo/actions/workflows/Build.yml)
+[![Tests](https://github.com/volodymyrbalbuza/SteganoGo/actions/workflows/tests.yml/badge.svg)](https://github.com/volodymyrbalbuza/SteganoGo/actions/workflows/tests.yml)
 
 ## Overview
 `steganoGo` is a simple CLI capable of hiding any file within an PNG image.
@@ -21,7 +20,7 @@ The `Result` file contains the `Payload` file hidden in it. And as you can see i
 Clone the code.
 
 ```bash
-git clone https://github.com/Mihai22125/SteganoGo
+git clone https://github.com/volodymyrbalbuza/SteganoGo
 ```
 
 
